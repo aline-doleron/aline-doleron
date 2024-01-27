@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-## Hello 👋
-
-<!-- #### I'm Front End developer -->
+#### I'm Front End developer
 <div style="display: none">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedoleron&hide=stars&theme=cobalt&text_bold=true&show_icons=true"> -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedoleron&theme=cobalt&layout=compact">
@@ -19,3 +17,6 @@
  <img alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
 </div>
 
+##
+
+Please check my previous github account: https://github.com/alinedoleron
