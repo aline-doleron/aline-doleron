@@ -19,4 +19,4 @@
 
 ##
 
-Please check my previous github account: https://github.com/alinedoleron
+My previous github account: https://github.com/alinedoleron
