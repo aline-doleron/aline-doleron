@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Aline 👋
 
 #### I'm Front End developer
 <div style="display: none">
@@ -19,4 +19,10 @@
 
 ##
 
-My previous github account: https://github.com/alinedoleron
+## Connect with Me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aline-d-oleron-451a3797">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
