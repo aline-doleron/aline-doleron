@@ -17,8 +17,5 @@
  <img alt="Sass" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img alt="CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
-</div>  
-
-
-My LinkedIn: https://www.linkedin.com/in/aline-d-oleron-451a3797/)https://www.linkedin.com/in/aline-d-oleron-451a3797/
+</div>
 
