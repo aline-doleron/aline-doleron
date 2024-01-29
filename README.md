@@ -3,7 +3,7 @@
 #### I'm Front End developer
 <div style="display: none">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedoleron&hide=stars&theme=cobalt&text_bold=true&show_icons=true"> -->
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedoleron&theme=cobalt&layout=compact">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-doleron&theme=cobalt&layout=compact">
 </div>
 
 ##
