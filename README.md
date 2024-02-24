@@ -7,16 +7,7 @@
 </div>
 
 ##
-
-<div style="display: inline_block">
- <img alt="Javascript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img alt="Typescript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img alt="React" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img alt="Sass" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img alt="CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,vite,javascript,css,html,styledcomponents,sass&theme=light)](https://skillicons.dev)
 ##
 
 ## Connect with Me
