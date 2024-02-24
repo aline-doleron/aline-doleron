@@ -25,4 +25,8 @@
   <a href="https://www.linkedin.com/in/aline-d-oleron-451a3797">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+ <a href="https://github.com/aline-doleron">
+    <img src="https://img.shields.io/badge/GitHub-previous%20account-blue?style=for-the-badge&logo=github&logoColor=white" alt="My previous github account used on my last job" title="My previous github account used on my last job"/>
+  </a>
 </div>
